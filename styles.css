@@ -1,0 +1,57 @@
+h1 {
+	font-size: 120px;
+	text-align: center;
+	text-shadow: 2px, 2px, black;
+	border-color: gray;
+}
+
+.table-heading {
+	font-size: 60px;
+	text-align: center;
+	background-color: dimgray;
+	margin-left: 10rem;
+	margin-right: 10rem;
+}
+
+body {
+	background-color: DarkSlateGrey;
+	color: white;
+}
+
+table {
+	border-width: 1px;
+	border-color: darkturquoise;
+	margin: 50px;
+	border: deepskyblue;
+	border-spacing: 10px 5px;
+}
+
+th {
+	font-size: 38px;
+	margin: 50px;
+}
+
+tr {
+	border-width: 1px;
+	border: 1px darkturquoise;
+	margin: 50px;
+}
+
+td {
+	margin-left: 50px;
+	border-width: 1px;
+	border: 1px darkturquoise;
+	font-size: 28px;
+}
+
+.html {
+	background-color: dodgerblue;
+}
+
+.css {
+	background-color: fuchsia;
+}
+
+.java {
+	background-color: goldenrod;
+}
